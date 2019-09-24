@@ -6,5 +6,5 @@
 ### OUTPUTS:
 #### 1.BASIC LeNet Model
 ![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20Basic/images/LeNet_Basic.PNG)
-#### 2.LeNet_v1 Mode
+#### 2.LeNet_v1 Model
 
