@@ -2,6 +2,9 @@
 ### **Various different versions of LeNet Model Customized By Me on the MNIST dataset**
 ### DIRECTLY RUN THE MODELS IN COLAB :
 #### 1. BASIC LeNet Model => [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkashKhamkar/LeNet/blob/master/LeNet%20Basic/LeNet.ipynb)
+#### 2. LeNet_v1 Model => [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AkashKhamkar/LeNet/blob/master/LeNet%20v1/LeNet_v1_with%20Max%20Pooling.ipynb)
 ### OUTPUTS:
 #### 1.BASIC LeNet Model
 ![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20Basic/images/LeNet_Basic.PNG)
+#### 2.LeNet_v1 Model
+
