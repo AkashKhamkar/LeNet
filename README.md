@@ -7,4 +7,7 @@
 #### 1.BASIC LeNet Model
 ![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20Basic/images/LeNet_Basic.PNG)
 #### 2.LeNet_v1 Model
-
+#### with maxpooling before flatten
+![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20v1/images/v1_with_max.PNG)
+#### without maxpooling before flatten
+![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20v1/images/v1_with_max_notb4flatten.PNG)
