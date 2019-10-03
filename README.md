@@ -16,3 +16,4 @@
 #### 3.LeNet_v2 Model
 #### with extra conv-relu layer
 ![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20v2/images/v2_with_extra_conv-relu.PNG)
+#### without extra conv-relu layer
