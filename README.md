@@ -14,4 +14,4 @@
 #### without maxpooling before flatten
 ![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20v1/images/v1_with_max_notb4flatten.PNG)
 #### 3.LeNet_v2 Model
-![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20v1/images/v1_with_max_notb4flatten.PNG)
+![OUTPUT](https://github.com/AkashKhamkar/LeNet/blob/master/LeNet%20v2/images/v2_with_extra_conv-relu.PNG)
